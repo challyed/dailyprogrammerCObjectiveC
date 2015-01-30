@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6B4FB2CE-64A9-48A3-AA94-B8004050AE63</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ISBNValidator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1630322E98265F893F6BE0017D5A25A83E89726B</key>
+		<string>https://github.com/challyed/dailyprogrammerCObjectiveC.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ISBNValidator/ISBNValidator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1630322E98265F893F6BE0017D5A25A83E89726B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/challyed/dailyprogrammerCObjectiveC.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1630322E98265F893F6BE0017D5A25A83E89726B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1630322E98265F893F6BE0017D5A25A83E89726B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>dailyprogrammerCObjectiveC</string>
+		</dict>
+	</array>
+</dict>
+</plist>
